@@ -106,12 +106,12 @@
 				CE6ECBA324B409D8008C8D9C /* AppDelegate.swift */,
 				CE6ECBA524B409D8008C8D9C /* SceneDelegate.swift */,
 				CE6ECBA724B409D8008C8D9C /* ContentView.swift */,
+				CE6ECBD524B5B8E6008C8D9C /* EmojiMemoryGame.swift */,
+				CE6ECBD324B58F89008C8D9C /* MemoryGame.swift */,
 				CE6ECBA924B409D9008C8D9C /* Assets.xcassets */,
 				CE6ECBAE24B409D9008C8D9C /* LaunchScreen.storyboard */,
 				CE6ECBB124B409D9008C8D9C /* Info.plist */,
 				CE6ECBAB24B409D9008C8D9C /* Preview Content */,
-				CE6ECBD524B5B8E6008C8D9C /* EmojiMemoryGame.swift */,
-				CE6ECBD324B58F89008C8D9C /* MemoryGame.swift */,
 			);
 			path = demo;
 			sourceTree = "<group>";
